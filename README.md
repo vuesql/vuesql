@@ -2,7 +2,7 @@
 
 ```csharp
 github.com/hriiss
-dc   $  @vuecli
+dc   $ @vuecli
 yt  $  youtube.com/@vuesql
 tg  $  @vuecli
 ```
